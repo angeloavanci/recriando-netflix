@@ -1,6 +1,6 @@
 # recriando-netflix
 
-## Desafio de projeto DIO para recriar interface do Netflix
+## Desafio de projeto [DIO](https://www.dio.me/) para recriar interface do Netflix
 
 1. Criado o projeto público no GitHub.
 
