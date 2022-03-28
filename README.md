@@ -7,3 +7,5 @@
 2. Projetado o layout do site, baseado no site/app de filmes e séries **NETFLIX ®**
 
 3. Definido o tema Carros.
+
+4. Implementado modo claro / escuro.
